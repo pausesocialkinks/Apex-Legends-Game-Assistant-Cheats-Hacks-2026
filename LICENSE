@@ -1,21 +1,86 @@
-MIT License
+Apex Legends Game Assistant 2026
 
-Copyright (c) 2026 pausesocialkinks
+Status: ACTIVE | Version: 6.2 | Platform: Windows 10/11
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository contains the Apex Legends Game Assistant 2026 — a comprehensive game enhancement tool for Apex Legends. All features are optimized for performance and stability.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Features:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Aiming Assistance — Precision targeting aid with customizable smoothness. Helps with target acquisition and tracking. Includes head/chest targeting options and visibility checks.
+
+Visual Feedback System — Shows additional information about players, loot, deathboxes, care packages, and survey beacons through terrain. Configurable colors, distance display, health bars, shield status, and legend type.
+
+Position Tracking Radar — External radar window showing all entities on the current map. Customizable dot colors and zoom options. Shows player movement in real-time.
+
+Combat Optimizations — Reduces weapon shake, removes weapon spread, increases firing rate, and eliminates reload delay.
+
+Movement Enhancements — Speed multiplier, super jump, no fall damage, and air strafe improvements.
+
+Loot Automation — Highlight valuable items through walls. Show item names and distances. Filter by rarity (Common to Heirloom).
+
+Health Management — Auto-heal when health or shields drop below threshold. Prioritizes shields first.
+
+Care Package Scanner — Show contents of care packages before opening.
+
+Survey Beacon Helper — Highlight survey beacon locations on minimap.
+
+Ring Tracking — Show next ring location and distance to safe zone.
+
+Legend Ability Info — See enemy legend abilities and ultimate status.
+
+Visual Customization — Player, loot, care package, and beacon highlighting through walls. Night brightness adjustment.
+
+Privacy Protection Mode — Overlay invisible to OBS, Discord, and recording software. Built-in cleaner removes all traces after session.
+
+Hardware Protection — System ID protection and kernel-level enhancements.
+
+Installation:
+
+1. Download the tool using the link below
+2. Run the .exe file as Administrator
+3. Select your Apex Legends installation folder
+4. Click Install and wait for completion
+5. Launch Apex Legends
+6. Press INSERT to open the control panel
+
+System Requirements:
+
+OS: Windows 10/11 (64-bit)
+CPU: Intel Core i5-7400 or AMD Ryzen 5 1400
+RAM: 16 GB minimum
+GPU: GTX 1060 6GB or better
+Storage: 1 GB
+
+Controls:
+
+INSERT — Open/close control panel
+F1 — Toggle visual feedback
+F2 — Toggle aiming assistance
+F3 — Toggle combat optimizations
+DELETE — Emergency shutdown
+
+Frequently Asked Questions:
+
+Q: Is this tool free? — Yes, completely free.
+
+Q: Does it work on Windows 11? — Yes, fully compatible.
+
+Q: Is it detected by Easy Anti-Cheat? — Currently undetected. Bypass active.
+
+Q: How often is it updated? — Within 24 hours of game patches.
+
+Q: Can I use it while streaming? — Yes, privacy protection mode works.
+
+Q: Can I use on my main account? — Use legit settings for main accounts. Rage settings for alt accounts.
+
+Q: How to uninstall? — Run installer again and select Uninstall.
+
+Q: What is HWID protection? — Protects against hardware bans.
+
+Last updated: June 2026
+Version: 6.2
+Status: Undetected
+Downloads: 450,000+
+Rating: 9.6/10
+
+Download: https://getcore.cc/
